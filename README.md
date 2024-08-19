@@ -9,6 +9,8 @@ This is the step-by-step related to the online-retail-transaction with the follo
 ## 2. Data Pre-Processing
 ### A. Describe the data
 ### B. Handle missing value
+- fdasfsd
+- - dsf
 #### B1. payment_value
 #### B2. product_category_name_english
 #### B3. payment_type and payment_installments
