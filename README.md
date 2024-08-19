@@ -17,8 +17,14 @@ This is the step-by-step related to the online-retail-transaction with the follo
 ## 3. Exploratory Data Analyst
 ### A. order_status condition
 ### B. Favorite payment_type
-### C. Most purchased product_category
-### D. Correlation Matrix
+### C. Most city and state customers and sellers
+- C1. Customer city
+- C2. Customer state
+- C3. Seller city
+- C4. Seller state
+### D. Most purchased product_category
+### E. The most expensive and the cheapest product
+### F. Correlation Matrix
 
 ## 4. RFM or Clustering
 ### A. Recency
